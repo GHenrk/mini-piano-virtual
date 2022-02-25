@@ -11,11 +11,11 @@
 
 ### 📁 Acesso ao projeto
 
-Você pode baixar a primeira versão [aqui](https://github.com/GHenrk/mini-piano-virtual/archive/refs/tags/v0.1.0.zip). 
+Você pode [ver o projeto em funcionamento aqui](https://mini-piano-virtual.vercel.app/) ou se prefeirir, [fazer o download](https://github.com/GHenrk/mini-piano-virtual/archive/refs/tags/v0.1.0.zip). 
 
 ### 🛠️ Abrir e rodar o projeto
 
-Após baixa-lo abra o arquivo index.html no seu navegador e usando o teclado você pode tocar as notas. 
+Após baixar e descompactar, basta abrir o aquivo index.html no seu navegador.
 
 
 ###  🖉 Autor
