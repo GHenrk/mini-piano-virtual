@@ -11,7 +11,7 @@
 
 ### 📁 Acesso ao projeto
 
-Você pode baixar a primeira versão [aqui](). 
+Você pode baixar a primeira versão [aqui](https://github.com/GHenrk/mini-piano-virtual/archive/refs/tags/v0.1.0.zip). 
 
 ### 🛠️ Abrir e rodar o projeto
 
