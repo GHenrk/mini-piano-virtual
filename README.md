@@ -11,7 +11,7 @@
 
 ### 📁 Acesso ao projeto
 
-Você pode [ver o projeto em funcionamento aqui](https://mini-piano-virtual.vercel.app/) ou se preferir, [fazer o download](https://github.com/GHenrk/mini-piano-virtual/archive/refs/tags/v0.1.0.zip). 
+Você pode [ver o projeto em funcionamento aqui](https://mini-piano-virtual.vercel.app/) ou se preferir, [fazer o download](https://github.com/GHenrk/mini-piano-virtual/archive/refs/tags/v0.1.1.zip). 
 
 ### 🛠️ Abrir e rodar o projeto
 
