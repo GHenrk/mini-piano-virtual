@@ -1,6 +1,7 @@
 const listaDeTeclas = document.querySelectorAll(".tecla");
 const controles = [ "Digit1", "Digit2", "Digit3", "Digit4", "Digit5" , "Digit6", "Digit7","Digit8", "Digit9", "Digit0", "Minus", "Equal", "Backspace", "Insert"]
 
+let audioPlayed = false;
 
 for (i=0; i<listaDeTeclas.length; i++) {
     const tecla = listaDeTeclas [i];
@@ -13,13 +14,15 @@ for (i=0; i<listaDeTeclas.length; i++) {
     const teclasControles = controles [i];
         
     document.addEventListener("keydown", function (evento) {
-        if (evento.code === teclasControles ) {
+        if (evento.code === teclasControles && audioPlayed === false) {
             tecla.classList.add('ativa');
             tocaSom(idAudio);
+            audioPlayed = true
          }    
     });
     document.addEventListener("keyup", function  () {
         tecla.classList.remove('ativa');
+        audioPlayed = false;
         });
 
     tecla.onclick = function () {
@@ -28,5 +31,8 @@ for (i=0; i<listaDeTeclas.length; i++) {
 }
 
 function tocaSom (idAudio) {
-    document.querySelector(idAudio).play();
+   let audio = document.querySelector(idAudio)
+
+   if (audio.paused) {audio.play()}
+   else {audio.currentTime = 0}
     }
