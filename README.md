@@ -5,10 +5,6 @@
 
 ![Imagem de um piano virtual](https://github.com/GHenrk/mini-piano-virtual/blob/master/imagens/newbg.jpeg?raw=true)
 
-<h3 align="center"> 
-    :construction:  Projeto em construção  :construction:
-</h3>
-
 ### 📁 Acesso ao projeto
 
 Você pode [ver o projeto em funcionamento aqui](https://mini-piano-virtual.vercel.app/) ou se preferir, [fazer o download](https://github.com/GHenrk/mini-piano-virtual/archive/refs/tags/v0.1.2.zip). 
@@ -20,4 +16,4 @@ Após baixar e descompactar, basta abrir o aquivo index.html no seu navegador.
 
 ###  🖉 Autor
 
-| [Gustavo Henrique Dias](https://github.com/GHenrk) | 
+| [GHenrk](https://github.com/GHenrk) | 
